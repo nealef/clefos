@@ -1,0 +1,6 @@
+[oss]
+name=Sine Nomine Associates packages
+baseurl=http://download.sinenomine.net/OSS/7
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SNA
+enabled=1
